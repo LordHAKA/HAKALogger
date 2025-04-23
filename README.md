@@ -20,6 +20,7 @@ So yeah, enjoy.
 Setup is really simple, it's like any other logger. <br>
 `pip install -r requirements.txt` <br>
 `pyinstaller --clean --onefile --key <any key> HAKALogger.py` <br>
+or use the website `py2exe.com/convert/` <br>
 
 virtualenv and UPX are recommended to make it smaller, faster, and less detected <br>
 
